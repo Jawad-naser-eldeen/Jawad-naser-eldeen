@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jawad-naser-eldeen
 - 👀 I’m interested in speciality backend;
 - 🌱 I’m currently ITE student at International University for Science and Technology {IUST};
-- 📫 How to reach me : jawadlp2023@gmail.com  \\  Linkedin : @jawad nasereldeen
+- 📫 How to reach me : jawadlp2023@gmail.com  \\  Linkedin : @jawad-nasereldeen
 - 😄 Pronouns: he\him;
 - ⚡ Fun fact: fun + coding != fail;
 - Qoute: It's not a dream , it's our future;
