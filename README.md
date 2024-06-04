@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jawad-naser-eldeen
-- 👀 I’m interested in coding speciality in back end;
+- 👀 I’m interested in speciality backend;
 - 🌱 I’m currently ITE student at International University for Science and Technology {IUST};
 - 📫 How to reach me : jawadlp2023@gmail.com  \\  Linkedin : @jawad nasereldeen
 - 😄 Pronouns: he\him;
